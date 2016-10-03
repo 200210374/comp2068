@@ -1,0 +1,12 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "Lesson 4 complete lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brandon Roy",
+  "license": "UNLICENSED"
+}
